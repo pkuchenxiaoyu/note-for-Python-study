@@ -1,2 +1,2 @@
-# note-for-Python-study
+# notes-for-Python-study
 xiaoyu's self_study about Python
